@@ -1,0 +1,13 @@
+E:\itransition\task3\task3\bin\Debug\netcoreapp3.1\task3.exe
+E:\itransition\task3\task3\bin\Debug\netcoreapp3.1\task3.deps.json
+E:\itransition\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.json
+E:\itransition\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.dev.json
+E:\itransition\task3\task3\bin\Debug\netcoreapp3.1\task3.dll
+E:\itransition\task3\task3\bin\Debug\netcoreapp3.1\task3.pdb
+E:\itransition\task3\task3\obj\Debug\netcoreapp3.1\task3.csproj.AssemblyReference.cache
+E:\itransition\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfoInputs.cache
+E:\itransition\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfo.cs
+E:\itransition\task3\task3\obj\Debug\netcoreapp3.1\task3.csproj.CoreCompileInputs.cache
+E:\itransition\task3\task3\obj\Debug\netcoreapp3.1\task3.dll
+E:\itransition\task3\task3\obj\Debug\netcoreapp3.1\task3.pdb
+E:\itransition\task3\task3\obj\Debug\netcoreapp3.1\task3.genruntimeconfig.cache
