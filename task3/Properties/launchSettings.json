@@ -2,7 +2,7 @@
   "profiles": {
     "task3": {
       "commandName": "Project",
-      "commandLineArgs": "a b c d e f g"
+      "commandLineArgs": "A B C D E G F"
     }
   }
 }

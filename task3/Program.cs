@@ -111,7 +111,7 @@ namespace task3
                     break;
             }
 
-            Console.WriteLine($"{Converthmac(hash)}");
+            Console.WriteLine($"Hmac key: {Converthmac(key)}");
         }
     }
 }
